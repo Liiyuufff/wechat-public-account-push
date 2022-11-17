@@ -11,7 +11,7 @@ const USER_CONFIG = {
   APP_ID: 'wx9b555952631cb083',
 
   // 使用微信测试号：公众号APP_SECRET
-  APP_SECRET: '44372824941d9ecb114b28524bca3c51',
+  APP_SECRET: '74967173ae194b84a86b42e54756177c',
 
   PROVINCE: '广东',
   CITY: '广州',
@@ -29,7 +29,7 @@ const USER_CONFIG = {
       festivals: [
         // 注意：此条配置日期为阴历日期，因为`type`中 “生日” 之前有 * 符号
         {
-          type: '*生日', name: '宝贝', year: '1996', date: '09-09',
+          type: '*生日', name: '宝贝', year: '2003', date: '10-12',
         },
         // 注意：此条配置日期为阳历日期，因为`type`中 “生日” 之前没有 * 符号
         {
